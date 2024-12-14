@@ -46,10 +46,10 @@ Is a Virtual Machine stored in the cloud. A virtual machine (VM) is a software-b
 <img src="https://i.imgur.com/uLJCN1p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+A Microsoft-developed network communication protocol that allows users to remotely control and access other computers
 </p>
 <br />
-A Microsoft-developed network communication protocol that allows users to remotely control and access other computers
+
 <p>
 <img src="https://i.imgur.com/jiSlx7K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
